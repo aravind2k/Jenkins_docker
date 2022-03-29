@@ -8,7 +8,7 @@ public class JenkinsDockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsDockerApplication.class, args);
-		System.out.println("Auto build worked");
+		System.out.println("Devops demo");
 	}
 
 }
